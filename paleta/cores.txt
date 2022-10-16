@@ -1,0 +1,4 @@
+Azul: #63E1FD;
+Preto: #333333;
+Amarelo: #FEDB41;
+Branco: #FFFFFF;
